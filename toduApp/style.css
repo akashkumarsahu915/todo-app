@@ -1,0 +1,11 @@
+button{
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+}
+.container{
+    display: flex;
+}
+input{
+    width: 300px;
+}
